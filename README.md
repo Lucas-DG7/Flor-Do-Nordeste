@@ -6,12 +6,12 @@
 
 [Potuguês - Brasil](Português.Brasil.md)
 
-[Català](Català.md)
+[Italiano](Italiano.md)
+
+[Español](Español.md)
 	
 [English](English.md)
 	
-[Español](Español.md)
-	
 [Français](Français.md)
 
-[Italiano](Italiano.md)
+[Català](Català.md)
