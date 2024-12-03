@@ -2,7 +2,7 @@
 
 ![PJ](https://github.com/user-attachments/assets/8e0b59f9-8cbf-42f8-9a83-619b488025de)
 
-# English - USA
+# English
 
 I would like to express my deepest gratitude to Maria Guevara from Panic Lobster for the incredible opportunity to participate in the Hackathon. This event marked my professional and personal journey, being a transformative experience. It allowed my team, Flor do Nordeste, to explore new ideas, collaborate with brilliant minds, and overcome challenges that boosted our creativity and resilience.
 
