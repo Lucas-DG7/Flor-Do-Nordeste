@@ -15,3 +15,27 @@
 [Français](Français.md)
 
 [Català](Català.md)
+
+[Arabic](Arabic.md)
+
+[Bengali](Bengali.md)
+
+[Chinese](Chinese.md)
+
+[Dutch](Dutch.md)
+
+[Finnish](Finnish.md)
+
+[German](German.md)
+
+[Hebrew](Hebrew.md)
+
+[Japanese](Japanese.md)
+
+[Korean](Korean.md)
+
+[Swiss](Swiss.md)
+
+[Turkish](Turkish.md)
+
+[Russian](Русский.md)
