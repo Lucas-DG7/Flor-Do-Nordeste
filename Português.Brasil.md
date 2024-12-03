@@ -8,7 +8,7 @@ Gostaria de expressar minha mais profunda gratidão a Maria Guevara, da Panic Lo
 
 # Sobre o Projeto: Rotas de Integração – Nordeste
 
-Participar deste Hackathon foi uma experiência única e enriquecedora. Nosso projeto, desenvolvido com paixão e dedicação, alcançou a 13ª colocação – uma conquista que nos enche de orgulho. Trabalhamos para criar soluções que conectassem a riqueza cultural e econômica do Nordeste, traduzindo conceitos em ferramentas reais para gerar impacto.
+Participar deste Hackathon foi uma experiência única e enriquecedora. Nosso projeto, desenvolvido com paixão e dedicação,[alcançou a 13ª colocação](https://repositorio.enap.gov.br/jspui/bitstream/1/8037/6/Resultado%20Final%20Impulso%20Regional%20Hackathon%20Comunicado_25.pdf) – uma conquista que nos enche de orgulho. Trabalhamos para criar soluções que conectassem a riqueza cultural e econômica do Nordeste, traduzindo conceitos em ferramentas reais para gerar impacto.
 
 Embora não tenhamos atingido o topo, cada passo foi uma aula prática de inovação, trabalho em equipe e resiliência. Aprendemos que o verdadeiro sucesso está no caminho percorrido e no aprendizado adquirido.
 Destaques e Aprendizados
