@@ -11,13 +11,14 @@ Gostaria de expressar minha mais profunda gratidão a Maria Guevara, da Panic Lo
 Participar deste Hackathon foi uma experiência única e enriquecedora. Nosso projeto, desenvolvido com paixão e dedicação,[alcançou a 13ª colocação](https://repositorio.enap.gov.br/jspui/bitstream/1/8037/6/Resultado%20Final%20Impulso%20Regional%20Hackathon%20Comunicado_25.pdf) – uma conquista que nos enche de orgulho. Trabalhamos para criar soluções que conectassem a riqueza cultural e econômica do Nordeste, traduzindo conceitos em ferramentas reais para gerar impacto.
 
 Embora não tenhamos atingido o topo, cada passo foi uma aula prática de inovação, trabalho em equipe e resiliência. Aprendemos que o verdadeiro sucesso está no caminho percorrido e no aprendizado adquirido.
-Destaques e Aprendizados
 
-    Pontos Fortes: A organização impecável do evento, com cronogramas claros e suporte constante, garantiu uma experiência imersiva e fluida. A diversidade dos desafios nos tirou da zona de conforto, incentivando a criatividade.
+# Destaques e Aprendizados
 
-    Aprendizados: Percebemos a importância de estratégias mais robustas de gerenciamento de tempo e maior sinergia na tomada de decisões em equipe.
+- Pontos Fortes: A organização impecável do evento, com cronogramas claros e suporte constante, garantiu uma experiência imersiva e fluida. A diversidade dos desafios nos tirou da zona de conforto, - ---incentivando a criatividade.
 
-    Sugestões: Para as próximas edições, seria enriquecedor contar com feedbacks mais detalhados das bancas avaliadoras, explorando o impacto prático dos projetos para resolver problemas reais.
+- Aprendizados: Percebemos a importância de estratégias mais robustas de gerenciamento de tempo e maior sinergia na tomada de decisões em equipe.
+
+- Sugestões: Para as próximas edições, seria enriquecedor contar com feedbacks mais detalhados das bancas avaliadoras, explorando o impacto prático dos projetos para resolver problemas reais.
 
 # Reconhecimento à Organização
 
