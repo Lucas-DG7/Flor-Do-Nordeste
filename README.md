@@ -7,9 +7,10 @@
 
 # Latim
 
-Ecce est gratia mea ad Mariam Guevara ex Panic Lobster ob novam mirabilem occasionem participandi in Hackathon. Hoc eventum certe signum fuit in meo itinere professionali ac personali, novas ideas explorandi, collaborandi cum claris ingeniis, et superandi provocationes cum mea turma, Flor do Nordeste.
 
-De Projecto
+Ego gratitudinem meam profundissimam exprimo Mariae Guevara ex Panic Lobster ob opportunitatem incredibilem in Hackathon participandi. Hoc eventum signavit meum iter professionale et personale, experientiam transformativam esse. Permisit meam turmam, Flor do Nordeste, novas ideas explorare, cum claris mentibus collaborare et provocationes superare quae nostram creativitatem et resilientiam impulserunt.
+
+# De Projecto: Rotas de Integração – Nordeste
 
 Participatio in hoc Hackathon fuit experientia ditissima. Noster proiectus, cum passione et deditione evolutus, [13am locum assecutus est](https://repositorio.enap.gov.br/jspui/bitstream/1/8037/6/Resultado%20Final%20Impulso%20Regional%20Hackathon%20Comunicado_25.pdf), quod nobis magnum gaudium adfert. Incredibile fuit conceptus in solutiones reales convertere, in turma laborare ad proposita requisita explenda. Etsi non ad summum pervenimus, omnis processus gradus fuit practica de innovatione, resilientia et opere turmae.
 Nonnulla Puncta Positiva et Suggestiones:
@@ -17,17 +18,13 @@ Nonnulla Puncta Positiva et Suggestiones:
     • Disciplinae: Momentum strategicum temporis administrationis et maior integrationis inter sodales turmae in decisionibus crucialibus agnoscimus.
     • Suggestiones ad Editiones Futuras: Utilis esset plura responsa technica ex iudicum tabulis includere, quid effectum projectuum in mercatum vel problematum solutionem realem explicanda.
     
-Organizatio
-
+# Agnitio ad Organisationem
 Qualitas eventus exemplaris fuit. Omne singulum, ab auxilio technico ad relaxationis momenta, compromissum reflectit offerendi experientiam inmemorialem. Hoc ambitu inspirati sumus ad nos provocare et crescere ut professionales et innovatores.
 
-Gratias
-
+# Gratias ad Panic Lobster
 Maria, tua visio et ductus sunt inspiratio omnibus participantibus. Hackathon non solum projectus innovativos impellit, sed etiam futuros talenta format. Certe omnis persona quae hanc viam secuta est, aptior et paratior ad novos provocationes 
 superandos processit. Gratias tibi agimus quod in omnium nostrum potentia credidisti.
 
-Turma
-
+# Nostra Turma: Flor do Nordeste
 Participatio in Hackathon cum turma Flor do Nordeste fuit unica opportunitas. Ex hac experientia fortiores exivimus, cum pretiosis disciplinationibus et incredibilibus fabulis narrandis. Nostrum propositum est pergere evolvere, et fortasse, in proximo eventu, altiorem locum consequi.
-
 
