@@ -34,8 +34,4 @@
 
 [Korean](Korean.md)
 
-[Swiss](Swiss.md)
-
-[Turkish](Turkish.md)
-
 [Russian](Русский.md)
